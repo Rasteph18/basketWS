@@ -16,6 +16,7 @@ import jakarta.persistence.Table;
 @Table(name = "equipe")
 //test
 //test2
+//test3
 public class Equipe {
     
     @Id
