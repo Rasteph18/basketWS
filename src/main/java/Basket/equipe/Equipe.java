@@ -14,6 +14,7 @@ import jakarta.persistence.Table;
 
 @Entity
 @Table(name = "equipe")
+//test
 public class Equipe {
     
     @Id
