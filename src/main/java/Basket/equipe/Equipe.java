@@ -19,6 +19,7 @@ import jakarta.persistence.Table;
 //test3
 //test4
 //test5
+//test6
 public class Equipe {
     
     @Id
